@@ -1,0 +1,21 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Conheça os Campeões",
+      "cor": "#deac54",
+      "link_extra": {
+        "text": "Conheça os Campeões",
+        "url": "https://www.youtube.com/watch?v=0nlJuwO0GDs"
+      }
+    }
+   ],
+  "videos": [
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Cinematic",
+      "url": "https://www.youtube.com/watch?v=HevLl54L-Dg"
+    }
+  ]
+}

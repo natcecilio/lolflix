@@ -1,0 +1,261 @@
+{
+  "categorias": [
+    {
+      "titulo": "Laços Espirituais",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#deac54",
+      "videos": [
+        {
+          "titulo": "A Maldição da Múmia Triste",
+          "url": "https://www.youtube.com/watch?v=0AvWV6Mk374"
+        },
+        {
+          "titulo": "Florescer Espiritual",
+          "url": "https://www.youtube.com/watch?v=tNeS7VKN2WE"
+        },
+        {
+          "titulo": "Irmãos da Lâmina Manchada",
+          "url": "https://www.youtube.com/watch?v=4eNjKhwXIWg"
+        },
+        {
+          "titulo": "Florescer Espiritual 2020 ",
+          "url": "https://www.youtube.com/watch?v=w1DUw6LehwM"
+        },
+        {
+          "titulo": "O caminho, uma lenda ioniana",
+          "url": "https://www.youtube.com/watch?v=6AJl0-luB8Y"
+        },
+        {
+          "titulo": "Arcanista 2020: Companheiros Improváveis ",
+          "url": "https://www.youtube.com/watch?v=W2ZznQCNIyw"
+        },
+        {
+          "titulo": "Nautilus Conquistador | Trailer de skin",
+          "url": "https://www.youtube.com/watch?v=fIjpk61QCTk"
+        }
+               
+      ]
+    },
+    {
+      "titulo": "Contos de Runeterra",
+      "cor": "#deac54", 
+      "videos": [
+        {
+          "titulo": "Contos de Runeterra: Demacia | Antes da Glória",
+          "url": "https://www.youtube.com/watch?v=lAGWn3GVLVY"
+        },
+        {
+          "titulo": "Contos de Runeterra: Freljord | A Invasão",
+          "url": "https://www.youtube.com/watch?v=pnCq4uyYtmo"
+        },
+        {
+          "titulo": "Contos de Runeterra: Ilhas das Sombras | Sem Escapatória",
+          "url": "https://www.youtube.com/watch?v=oAW0H9WCPcE"
+        },
+        {
+          "titulo": "Contos de Runeterra: Noxus | Após a Vitória",
+          "url": "https://www.youtube.com/watch?v=9EXK3xBfwTU"
+        },
+        {
+          "titulo": "Contos de Runeterra: Piltover e Zaun | Verdadeira Genialidade",
+          "url": "https://www.youtube.com/watch?v=Z_BedYLqQ4g"
+        }, 
+        {
+          "titulo": "Contos de Runeterra: Ionia | A Lição",
+          "url": "https://www.youtube.com/watch?v=l7opUhgEx7U"
+        },
+        {
+          "titulo": "Contos de Runeterra: Águas de Sentina | Virando o Jogo",
+          "url": "https://www.youtube.com/watch?v=Jp9wrmF81gc"
+        }
+      ]
+    },
+    {
+      "titulo": "Conheça os Campeões",
+      "cor": "#deac54",
+      "videos": [
+        {
+          "titulo": "Get Jinxed  ",
+          "url": "https://www.youtube.com/watch?v=0nlJuwO0GDs"
+        },
+        {
+          "titulo": "ANNIE: Origens  ",
+          "url": "https://www.youtube.com/watch?v=Xq-rXnjFr8Q"
+        },
+        {
+          "titulo": "Lux: Elementalist ",
+          "url": "https://www.youtube.com/watch?v=fjrfYZsZLJA"
+        },
+        {
+          "titulo": "Ryze: Chamado do Poder ",
+          "url": "https://www.youtube.com/watch?v=vyNBf-SvFVE"
+        },
+        {
+          "titulo": "Neeko: a Camaleoa Curiosa",
+          "url": "https://www.youtube.com/watch?v=xy0Ur8rp-9I"
+        },
+        {
+          "titulo": "Aatrox: Aniquilador de Mundos",
+          "url": "https://www.youtube.com/watch?v=n_od4qeNzO4"
+        },
+        {
+          "titulo": "Senna: O Abraço das Sombras",
+          "url": "https://www.youtube.com/watch?v=ZjvDFvzfxsQ"
+        },
+        {
+          "titulo": "Pyke: O Estripador das Águas Sangrentas",
+          "url": "https://www.youtube.com/watch?v=Nvz4CnrVjKk"
+        },
+        {
+          "titulo": "Sylas: o Abjugado",
+          "url": "https://www.youtube.com/watch?v=H5GnB59EI7Q"
+        },
+        {
+          "titulo": "Varus: As We Fall ",
+          "url": "https://www.youtube.com/watch?v=kZVF4PbCbZk"
+        },
+        {
+          "titulo": "Swain: o Grande General noxiano",
+          "url": "youtube.com/watch?v=PjaDhMfj6uQ"
+        },
+        {
+          "titulo": "Zoe: o Aspecto do Crepúsculo",
+          "url": "https://www.youtube.com/watch?v=O5dLW6voilE"
+        },
+        {
+          "titulo": "Ahri: Guardiã Estelar",
+          "url": "https://www.youtube.com/watch?v=W6gapwfQufU"
+        },
+        {
+          "titulo": "Urgot, o Encouraçado",
+          "url": "https://www.youtube.com/watch?v=D40hyC9uF18"
+        },
+        {
+          "titulo": "Kayn: O Caminho das Sombras",
+          "url": "https://www.youtube.com/watch?v=4U9pkHwf4yE"
+        },
+        {
+          "titulo": "Xayah e Rakan: Magia Selvagem",
+          "url": "https://www.youtube.com/watch?v=m3Vk3YZWlKs"
+        },
+        {
+          "titulo": "Kled: O Reencontro",
+          "url": "https://www.youtube.com/watch?v=Jq_NnO4meYA"
+        },
+        {
+          "titulo": "Aurelion Sol: o Forjador de Estrelas",
+          "url": "https://www.youtube.com/watch?v=3EnqfJlw92Y"
+        }
+      ]
+    },
+    {
+      "titulo": "Cinematic",
+      "cor": "#deac54",
+      "videos": [
+        {
+          "titulo": "Boas-Vindas a Bordo",
+          "url": "https://www.youtube.com/watch?v=HevLl54L-Dg"
+        },
+        {
+          "titulo": "Warriors",
+          "url": "https://www.youtube.com/watch?v=aR-KAldshAE"
+        },
+        {
+          "titulo": "Um Diabo novo na cidade",
+          "url": "https://www.youtube.com/watch?v=NCnWZ6TJ1g0"
+        },
+        {
+          "titulo": "A Vingança é Cósmica",
+          "url": "https://www.youtube.com/watch?v=BltKAruAVH4"
+        },
+        {
+          "titulo": "Passagem Sombria",
+          "url": "https://www.youtube.com/watch?v=KFzorYItD1U"
+        },
+        {
+          "titulo": "Luz e Escuridão",
+          "url": "https://www.youtube.com/watch?v=whH5deMoRvY"
+        },
+        {
+          "titulo": "A Caçada",
+          "url": "https://www.youtube.com/watch?v=Y3r6JjOdXYU"
+        },
+        {
+          "titulo": "The Climb",
+          "url": "https://www.youtube.com/watch?v=3Eu7NzzHC84"
+        }
+       
+      ]
+    },
+    {
+      "titulo": "Clipes",
+      "cor": "#deac54",
+      
+      "videos": [
+        {
+          "titulo": "Pentakill: Mortal Reminder ",
+          "url": "https://www.youtube.com/watch?v=5-mT9D4fdgQ"
+        },
+        {
+          "titulo": "Awaken (ft. Valerie Broussard)",
+          "url": "https://www.youtube.com/watch?v=zF5Ddo9JdpY"
+        },
+        {
+          "titulo": "Phoenix (com Cailin Russo e Chrissy Costanza)",
+          "url": "https://www.youtube.com/watch?v=i1IKnWDecwA"
+        },
+        {
+          "titulo": "K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns)",
+          "url": "https://www.youtube.com/watch?v=UOxkGD8qRB4"
+        },
+       {
+          "titulo": "True Damage - GIANTS (com Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose)",
+          "url": "https://www.youtube.com/watch?v=sVZpHFXcFJw"
+        }, 
+        {
+          "titulo": "Ignite (ft. Zedd) ",
+          "url": "https://www.youtube.com/watch?v=Zasx9hjo4WY"
+        }, 
+        {
+          "titulo": "RISE (ft. The Glitch Mob, Mako, and The Word Alive) ",
+          "url": "https://www.youtube.com/watch?v=fB8TyLTD7EE"
+        }, 
+        {
+          "titulo": "Legends Never Die (ft. Against The Current) ",
+          "url": "https://www.youtube.com/watch?v=r6zIGXun57U"
+        },
+        {
+          "titulo": "Burning Bright | Star Guardian) ",
+          "url": "https://www.youtube.com/watch?v=oorajmbSJUM"
+        }
+      ]
+    },
+    {
+      "titulo": "Oficina de Animação",
+      "cor": "#deac54",
+      
+      "videos": [
+        {
+          "titulo": "Lux: Luz que Aprisiona ",
+          "url": "https://www.youtube.com/watch?v=1aqqoHi7VFg"
+        },
+        {
+          "titulo": "Miss Fortune: Renda-se",
+          "url": "https://www.youtube.com/watch?v=zDj9HQm0yIQ"
+        },  
+        {
+          "titulo": "Zed: Marca Fatal ",
+          "url": "https://www.youtube.com/watch?v=zOWb16wa1Rs"
+        },
+        {
+          "titulo": "Darius: Medo ",
+          "url": "https://www.youtube.com/watch?v=IHeslhpqJs0"
+        },
+        {
+          "titulo": "Taliyah: Volta ao Lar ",
+          "url": "https://www.youtube.com/watch?v=xCSm_LuJhf4"
+        }
+      ]
+    }
+  ]
+}
