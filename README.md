@@ -7,5 +7,5 @@ Esse projeto foi desenvolvido durante a _Imersão React comandado pela empresa A
 
 Após baixar o projeto, acesse ele via seu terminal rode os comandos:
 
-npm install
-npm start
+ - npm install 
+ - npm start
